@@ -1,4 +1,4 @@
-# **Responsive Table
+# **Responsive Table**
 Responsive table using css only.
 
 ### **Table of Contents**
